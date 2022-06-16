@@ -1,0 +1,9 @@
+body {
+    background:orange ;
+}
+p {
+    font-style: italic;
+}
+body.one {
+    font-size: 50px;
+}

@@ -1,0 +1,29 @@
+.sign {
+    font-weight: bold;
+}
+.nothingComplexed{
+    font-style: italic;
+    font-weight: bold;
+}
+ul {
+    list-style-type: disclosure-closed;
+}
+.image1 {
+    width: 400px;
+    height: 400px;
+}
+body {
+    background: lightcyan;
+}
+h1 {
+    background: yellow;
+}
+h2 {
+    background: crimson;
+}
+a {
+    color: orange;
+}
+p {
+    font-size: 30px;
+}
