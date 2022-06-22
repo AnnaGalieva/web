@@ -9,6 +9,7 @@
 .image {
     width: 500px;
     height: 250px;
+    
 }
 body {
     background: lightcyan;
@@ -24,6 +25,7 @@ a {
 }
 p {
     font-size: 20px;
+    
 }
 ol {
     font-size: 15px;
