@@ -57,6 +57,8 @@
 
 
 
+
+
 //перепешите код используя switch-case запрашивая возраст пользователя через диалоговое окно
 // let age=101;
 // if (age==18) {
@@ -83,3 +85,17 @@
 //     default:
 //         alert('мы не знаем что вам делать');
 // }
+
+
+
+/*let userName = prompt("Как Вас зовут?", "Имя");
+function showName() {
+    alert("Привет," + userName);
+
+let confirmation = confirm("Вы уверены?");
+if (confirmation) {
+    alert("Мы рады, что Вы уверены!");
+} else {
+    alert("Жаль, что Вы не уверены…");
+}}
+showName();*/
